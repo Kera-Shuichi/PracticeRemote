@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title></title>
+  <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+</head>
+<body>
+  <div>
+    <input id="btn01" type="button" value="HTML属性で実行" onclick="executeButton01();" />
+  </div>
+  <div>
+    <h1 id="text01"></h1>
+  </div>
+  <div>
+    <input id="btn02" type="button" value="イベントリスナーで実行" />
+  </div>
+  <div>
+    <h1 id="text02"></h1>
+  </div>
+
+  <div>
+    <script type="text/javascript">
+      function executeButton01() {
+        $('#text01').text('HTML属性で実行されました。');
+      }
+
+      function executeButton02() {
+        $('#text02').text('イベントリスナーで実行されました。');
+      }
+
+      // イベントリスナーでの方法
+      // ID「btn02」のタグデータを取得
+      var btn02 = document.getElementById('btn02');
+      btn02.addEventListener('click', executeButton02, true);
+    </script>
+  </div>
+</body>
+</html>

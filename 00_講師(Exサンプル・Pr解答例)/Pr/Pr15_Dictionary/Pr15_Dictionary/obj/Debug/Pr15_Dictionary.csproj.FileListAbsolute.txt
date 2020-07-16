@@ -1,0 +1,10 @@
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr15_Dictionary\Pr15_Dictionary\bin\Debug\Pr15_Dictionary.exe.config
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr15_Dictionary\Pr15_Dictionary\bin\Debug\Pr15_Dictionary.exe
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr15_Dictionary\Pr15_Dictionary\bin\Debug\Pr15_Dictionary.pdb
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr15_Dictionary\Pr15_Dictionary\obj\Debug\Pr15_Dictionary.csprojAssemblyReference.cache
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr15_Dictionary\Pr15_Dictionary\obj\Debug\Pr15_Dictionary.Form1.resources
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr15_Dictionary\Pr15_Dictionary\obj\Debug\Pr15_Dictionary.Properties.Resources.resources
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr15_Dictionary\Pr15_Dictionary\obj\Debug\Pr15_Dictionary.csproj.GenerateResource.cache
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr15_Dictionary\Pr15_Dictionary\obj\Debug\Pr15_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr15_Dictionary\Pr15_Dictionary\obj\Debug\Pr15_Dictionary.exe
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr15_Dictionary\Pr15_Dictionary\obj\Debug\Pr15_Dictionary.pdb

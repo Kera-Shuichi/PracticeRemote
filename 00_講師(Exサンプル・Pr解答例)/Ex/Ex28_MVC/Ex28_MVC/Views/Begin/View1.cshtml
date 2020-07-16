@@ -1,0 +1,32 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>View1</title>
+</head>
+<body>
+    <div>
+        VIEW1
+        <br />
+        @* ViewData: ViewとControllerで値を受け渡したいときに使用する。使用方法はDictionaryと同様である。*@
+        @ViewData["msg"]
+
+        @* @using: HTMLヘルパーの一種。C#と同じ意味だと考えてよい。「@」がキーワード。*@
+        @* Html.BeginForm(): フォームを生成してくれる。submitが起きた時に呼び出すコントローラを指定できる。*@
+        @*         引数なし: 自身のコントローラ（このViewのファイル階層に対応するアクション）をPOSTで呼び出す*@
+        @*         引数2つ : 引数1、アクション名。引数2、コントローラ名。POSTで呼び出す。*@
+        @*         引数3つ : 引数1、アクション名。引数2、コントローラ名。引数3、GETかPOSTか。*@
+        @using (Html.BeginForm("View2", "Begin"))
+        {
+            <input id="textbox1" type="text" name="name" />
+            <input id="Button1" type="submit" value="送信" />
+        }
+    </div>
+</body>
+</html>

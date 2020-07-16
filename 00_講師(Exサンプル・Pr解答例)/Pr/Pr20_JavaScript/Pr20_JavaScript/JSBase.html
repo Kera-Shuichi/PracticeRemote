@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title></title>
+  <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+  <script type="text/javascript" src="js/JSBase.js"></script>
+</head>
+<body>
+  <div>
+    <div>
+      <input id="rdo1-0" name="rdo1" type="radio" value="0" checked />
+      個人
+    </div>
+    <div>
+      <input id="rdo1-1" name="rdo1" type="radio" value="1" />
+      法人
+    </div>
+  </div>
+  <div class="person">
+    氏名
+    <input id="txt1" class="errPerson" />
+  </div>
+  <br />
+  <div class="company">
+    企業名
+    <input id="txt2" class="errCompany" />
+  </div>
+  <br />
+  <div>
+    住所
+    <input id="txt3" class="errPerson errCompany" />
+  </div>
+  <br />
+  <input type="button" id="btn1" value="送信" />
+  <br />
+  <asp:Label ID="lblErr" runat="server" ForeColor="Red"></asp:Label>
+</body>
+</html>

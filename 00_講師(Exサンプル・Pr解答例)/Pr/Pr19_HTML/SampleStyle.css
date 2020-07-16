@@ -1,0 +1,36 @@
+﻿/* body要素 */
+body {
+  /* 上 右 下 左 */
+  margin: 50px 50px 10px 100px; 
+}
+
+
+/* div要素 */
+#pagebody {
+  width: 820px;
+}
+
+#header {
+  height: 20px;
+  background-color: #2CA8B6;
+}
+
+
+/* テーブル */
+table {
+  /* 隣接するセルのボーダーを重ねて表示 */
+  border-collapse: collapse;
+  width: 100%;
+}
+table th {
+  background-color: #2CA8B6;
+}
+table td, th {
+  padding: 5px 20px;
+}
+
+/* コピーライト */
+#copyRight {
+  font-size: 10pt;
+  text-align:center;
+}

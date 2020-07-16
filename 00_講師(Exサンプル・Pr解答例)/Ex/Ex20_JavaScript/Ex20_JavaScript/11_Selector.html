@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title></title>
+  <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+</head>
+<body>
+  <div>
+    <h1 id="title"></h1>
+  </div>
+  <div>
+    <h1 class="title-class"></h1>
+  </div>
+  <div>
+    <h1 class="title-class"></h1>
+  </div>
+  <div>
+    <h1 class="title-class"></h1>
+  </div>
+  <div>
+    <h2 class="title-class"></h2>
+  </div>
+
+  <div>
+    <script type="text/javascript">
+      // jquery：ページロード関数
+      $(function () {
+        //// 要素(タグ)の指定
+        //$('h1').text('要素指定で文字を表示します。');
+
+        //// ID指定
+        //$('#title').text('ID指定で文字を表示します。');
+
+        //// Class指定
+        //$('.title-class').text('Class指定で文字を表示します。');
+
+        // 複数のセレクタ
+        $('h2, #title').text('h2要素とID指定(title)で文字を表示します。');
+      });
+    </script>
+  </div>
+</body>
+</html>

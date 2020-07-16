@@ -1,0 +1,7 @@
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr16_Exception_Catch\Pr16_Exception_Catch\bin\Debug\Pr16_Exception_Catch.exe.config
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr16_Exception_Catch\Pr16_Exception_Catch\bin\Debug\Pr16_Exception_Catch.exe
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr16_Exception_Catch\Pr16_Exception_Catch\bin\Debug\Pr16_Exception_Catch.pdb
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr16_Exception_Catch\Pr16_Exception_Catch\obj\Debug\Pr16_Exception_Catch.csprojAssemblyReference.cache
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr16_Exception_Catch\Pr16_Exception_Catch\obj\Debug\Pr16_Exception_Catch.csproj.CoreCompileInputs.cache
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr16_Exception_Catch\Pr16_Exception_Catch\obj\Debug\Pr16_Exception_Catch.exe
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr16_Exception_Catch\Pr16_Exception_Catch\obj\Debug\Pr16_Exception_Catch.pdb

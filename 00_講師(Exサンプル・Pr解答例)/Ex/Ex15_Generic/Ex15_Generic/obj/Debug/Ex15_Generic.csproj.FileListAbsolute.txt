@@ -1,0 +1,6 @@
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Ex\Ex15_Generic\Ex15_Generic\bin\Debug\Ex15_Generic.exe.config
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Ex\Ex15_Generic\Ex15_Generic\bin\Debug\Ex15_Generic.exe
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Ex\Ex15_Generic\Ex15_Generic\bin\Debug\Ex15_Generic.pdb
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Ex\Ex15_Generic\Ex15_Generic\obj\Debug\Ex15_Generic.csproj.CoreCompileInputs.cache
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Ex\Ex15_Generic\Ex15_Generic\obj\Debug\Ex15_Generic.exe
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Ex\Ex15_Generic\Ex15_Generic\obj\Debug\Ex15_Generic.pdb

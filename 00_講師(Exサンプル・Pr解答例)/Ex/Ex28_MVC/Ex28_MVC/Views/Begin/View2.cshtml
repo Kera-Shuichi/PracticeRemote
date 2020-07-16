@@ -1,0 +1,26 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>View2</title>
+</head>
+<body>
+    <div>
+        VIEW2
+        <br />
+        @ViewData["msg"]
+        <br />
+        @using (Html.BeginForm("View1", "Begin"))
+        {
+            <input id="name" type="text" name="name" />
+            <input id="Button1" type="submit" value="送信" />
+        }
+    </div>
+</body>
+</html>

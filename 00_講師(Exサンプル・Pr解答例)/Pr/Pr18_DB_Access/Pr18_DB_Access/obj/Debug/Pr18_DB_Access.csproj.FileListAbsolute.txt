@@ -1,0 +1,13 @@
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr18_DB_Access\Pr18_DB_Access\bin\Debug\StoreManagement.mdf
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr18_DB_Access\Pr18_DB_Access\bin\Debug\StoreManagement_log.ldf
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr18_DB_Access\Pr18_DB_Access\bin\Debug\Pr18_DB_Access.exe.config
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr18_DB_Access\Pr18_DB_Access\bin\Debug\Pr18_DB_Access.exe
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr18_DB_Access\Pr18_DB_Access\bin\Debug\Pr18_DB_Access.pdb
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr18_DB_Access\Pr18_DB_Access\obj\Debug\Pr18_DB_Access.csprojAssemblyReference.cache
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr18_DB_Access\Pr18_DB_Access\obj\Debug\Pr18_DB_Access.CustomerListForm.resources
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr18_DB_Access\Pr18_DB_Access\obj\Debug\Pr18_DB_Access.Properties.Resources.resources
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr18_DB_Access\Pr18_DB_Access\obj\Debug\Pr18_DB_Access.UpdateForm.resources
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr18_DB_Access\Pr18_DB_Access\obj\Debug\Pr18_DB_Access.csproj.GenerateResource.cache
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr18_DB_Access\Pr18_DB_Access\obj\Debug\Pr18_DB_Access.csproj.CoreCompileInputs.cache
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr18_DB_Access\Pr18_DB_Access\obj\Debug\Pr18_DB_Access.exe
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr18_DB_Access\Pr18_DB_Access\obj\Debug\Pr18_DB_Access.pdb

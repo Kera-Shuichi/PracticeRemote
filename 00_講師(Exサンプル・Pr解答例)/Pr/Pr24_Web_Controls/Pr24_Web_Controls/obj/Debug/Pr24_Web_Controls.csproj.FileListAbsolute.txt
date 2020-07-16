@@ -1,0 +1,10 @@
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr24_Web_Controls\Pr24_Web_Controls\bin\Pr24_Web_Controls.dll.config
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr24_Web_Controls\Pr24_Web_Controls\bin\Pr24_Web_Controls.dll
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr24_Web_Controls\Pr24_Web_Controls\bin\Pr24_Web_Controls.pdb
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr24_Web_Controls\Pr24_Web_Controls\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr24_Web_Controls\Pr24_Web_Controls\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr24_Web_Controls\Pr24_Web_Controls\obj\Debug\Pr24_Web_Controls.csprojAssemblyReference.cache
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr24_Web_Controls\Pr24_Web_Controls\obj\Debug\Pr24_Web_Controls.csproj.CoreCompileInputs.cache
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr24_Web_Controls\Pr24_Web_Controls\obj\Debug\Pr24_Web_Controls.csproj.CopyComplete
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr24_Web_Controls\Pr24_Web_Controls\obj\Debug\Pr24_Web_Controls.dll
+C:\Users\s_kera\Desktop\TFS\ファイル共有\01_言語研修\99_users\00_講師(Exサンプル・Pr解答例)\Pr\Pr24_Web_Controls\Pr24_Web_Controls\obj\Debug\Pr24_Web_Controls.pdb

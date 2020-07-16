@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+  <div>
+    <h1>F12を押してConsoleを確認してください。</h1>
+  </div>
+  <div>
+    <script type="text/javascript">
+      console.log(test);
+
+      var test;
+      console.log(test);
+      console.log(test == null);
+      console.log(test === null);
+      // 「==」：等値演算子：値が一致しているかどうか
+      //  '1' == 1 ←true
+      // 「===」：同値演算子：値及び型が一致しているかどうか
+      //  '1' === 1 ←false
+
+      test = null;
+      console.log(test);
+
+    </script>
+  </div>
+</body>
+</html>

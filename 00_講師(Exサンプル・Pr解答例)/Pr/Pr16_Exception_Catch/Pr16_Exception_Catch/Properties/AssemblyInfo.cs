@@ -1,0 +1,36 @@
+﻿using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+
+// アセンブリに関する一般情報は以下の属性セットをとおして制御されます。
+// 制御されます。アセンブリに関連付けられている情報を変更するには、
+// これらの属性値を変更します。
+[assembly: AssemblyTitle("Pr16_Exception_Catch")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("Pr16_Exception_Catch")]
+[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+
+// ComVisible を false に設定すると、このアセンブリ内の型は COM コンポーネントから
+// 参照できなくなります。COM からこのアセンブリ内の型にアクセスする必要がある場合は、
+// その型の ComVisible 属性を true に設定します。
+[assembly: ComVisible(false)]
+
+// このプロジェクトが COM に公開される場合、次の GUID が typelib の ID になります
+[assembly: Guid("4001a900-b7d0-4fba-b19a-37477131d9a2")]
+
+// アセンブリのバージョン情報は次の 4 つの値で構成されています:
+//
+//      メジャー バージョン
+//      マイナー バージョン
+//      ビルド番号
+//      リビジョン
+//
+// すべての値を指定するか、次を使用してビルド番号とリビジョン番号を既定に設定できます
+// 既定値にすることができます:
+// [assembly: AssemblyVersion("1.0.*")]
+[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyFileVersion("1.0.0.0")]

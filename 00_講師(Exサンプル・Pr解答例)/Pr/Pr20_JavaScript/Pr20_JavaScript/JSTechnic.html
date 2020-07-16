@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title></title>
+  <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+  <script type="text/javascript" src="js/JsTechnique.js"></script>
+  <style type="text/css">
+    input {
+      width: 80px;
+    }
+
+    table {
+      border: dotted 1px black;
+    }
+
+    .tblHeader {
+      background-color: lightblue;
+    }
+  </style>
+</head>
+<body>
+  <div>
+    <!-- 解答例のように追加課題を実装するためにはIDの設定が必要です。 -->
+    <table id="tblMain">
+      <tr class="tblHeader">
+        <td><p>氏名</p></td>
+        <td><p id="lblTitleSubject1">英語</p></td>
+        <td><p id="lblTitleSubject2">数学</p></td>
+        <td><p id="lblTitleSubject3">国語</p></td>
+        <td><p>合計</p></td>
+        <!--<td><p>得意教科</p></td>
+        <td><p>苦手教科</p></td>-->
+      </tr>
+      <tr>
+        <td>野比　のび太さん</td>
+        <td><input type="text" id="txtScore1_1"/></td>
+        <td><input type="text" id="txtScore1_2"/></td>
+        <td><input type="text" id="txtScore1_3"/></td>
+        <td><p id="lblSum1"></p></td>
+        <!--<td><p id="lblGood1"></p></td>
+        <td><p id="lblNotGood1"></p></td>-->
+      </tr>
+      <tr>
+        <td>源　静香さん</td>
+        <td><input type="text" id="txtScore2_1"/></td>
+        <td><input type="text" id="txtScore2_2"/></td>
+        <td><input type="text" id="txtScore2_3"/></td>
+        <td><p id="lblSum2"></p></td>
+        <!--<td><p id="lblGood2"></p></td>
+        <td><p id="lblNotGood2"></p></td>-->
+      </tr>
+      <tr>
+        <td>剛田　武さん</td>
+        <td><input type="text" id="txtScore3_1"/></td>
+        <td><input type="text" id="txtScore3_2"/></td>
+        <td><input type="text" id="txtScore3_3"/></td>
+        <td><p id="lblSum3"></p></td>
+        <!--<td><p id="lblGood3"></p></td>
+        <td><p id="lblNotGood3"></p></td>-->
+      </tr>
+      <tr>
+        <td>骨川　スネ夫さん</td>
+        <td><input type="text" id="txtScore4_1"/></td>
+        <td><input type="text" id="txtScore4_2"/></td>
+        <td><input type="text" id="txtScore4_3"/></td>
+        <td><p id="lblSum4"></p></td>
+        <!--<td><p id="lblGood4"></p></td>
+        <td><p id="lblNotGood4"></p></td>-->
+      </tr>
+      <tr>
+        <td>出木杉　英才さん</td>
+        <td><input type="text" id="txtScore5_1"/></td>
+        <td><input type="text" id="txtScore5_2"/></td>
+        <td><input type="text" id="txtScore5_3"/></td>
+        <td><p id="lblSum5"></p></td>
+        <!--<td><p id="lblGood5"></p></td>
+        <td><p id="lblNotGood5"></p></td>-->
+      </tr>
+    </table>
+    <div style="padding: 10px;">
+      <input type="button" id="btnCalc" value="計算" />
+      <input type="button" id="btnClear" value="クリア" />
+      <p id="lblError" style="color:red"></p>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+  <div>
+    <h1 id="title"></h1>
+  </div>
+  <div>
+    <script type="text/javascript">
+      // 関数例1
+      function func01() {
+        document.getElementById('title').innerText =
+          'この文字はJavaScriptの関数例1で表示しています。';
+      }
+
+      // 関数例2
+      function func02(id, text) {
+        document.getElementById(id).innerText = text;
+        return;
+      }
+
+      // 実行(関数の呼び出し)
+      func01();
+      func02('title', 'この文字はJavaScriptの関数例2で表示しています。');
+    </script>
+  </div>
+</body>
+</html>
